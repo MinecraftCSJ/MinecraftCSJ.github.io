@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+# 我的世界创世纪服务器
 
-You can use the [editor on GitHub](https://github.com/MinecraftCSJ/MinecraftCSJ.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+我的世界创世纪服务器（[QQ群：183762842](http://shang.qq.com/wpa/qunwpa?idkey=48597168828155a7e5b0dcde21f70195eb87f86e63b49173e1369137c8de2603)）是一个玩家联盟自己组建的服务器，本质是公益性的服务器，不过对于赞助支持的用户会给予VIP奖励。
+我的世界创世纪服务器更新到了1.8版本，支持联机。
+赶紧来游玩，虽然我们有些方面做的不好，但是我们一直在改进。
+我们有自己的手机app（即将上架）和微信公众号，有即将为人所知的管理团队。
+创世纪，感谢有你！
+`Create The Century. CSJ-Org.`
+![CSJ标志](\assests\pic\png\QQ图片20160915231755.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
