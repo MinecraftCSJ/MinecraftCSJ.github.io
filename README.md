@@ -6,7 +6,7 @@
 我们有自己的手机app（即将上架）和微信公众号，有即将为人所知的管理团队。
 创世纪，感谢有你！
 `Create The Century. CSJ-Org.`
-![CSJ标志](\assests\pic\png\QQ图片20160915231755.png)
+![CSJ标志](https://minecraftcsj.github.io/\assests\pic\png\QQ图片20160915231755.png)
 
 
 ### Markdown
