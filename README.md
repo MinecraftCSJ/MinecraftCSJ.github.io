@@ -48,4 +48,4 @@
 ### 团队介绍
 
 我们是什么样的团队? 我们是一群非常热爱minecraft的中国玩家,我们建立这个团队的目的是希望能一起合作创建minecraft多种多样的线上内容,以及为热爱minecraft的联机玩家提供共同游戏的场所。
-> [免责声明.html](免责声明.html)
+> [免责声明.html](mianzeshengming.html)
