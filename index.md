@@ -8,7 +8,7 @@
 
 创世纪，感谢有你！
 `Create The Century. CSJ-Org.`
-![CSJ标志](https://minecraftcsj.github.io/\assests\pic\png\QQ图片20160915231755.png)
+![CSJ标志](\assests\pic\png\QQ图片20160915231755.png)
 
 
 ----------
@@ -36,7 +36,7 @@
 ----------
 
 
-## 下载中心
+## [下载中心](download)
 >你可以[点击此处](download)访问我们的下载中心页面。
 
 #### 同我们一起打造你的Minecraft多人联机乐趣
@@ -49,7 +49,7 @@
 ----------
 
 
-## 关于我们
+## [关于我们](aboutus)
 >你可以[点击此处](aboutus)访问我们的关于我们页面。
 
 我的世界创世纪神会———— 一个自发组织的minecraft专业多人服务器团队,拥有，建立minecraft服务器。同时推广minecraft这款游戏,并且完善minecraft多种多样的线上内容。为玩家提供流畅的我的世界服务器联机体验。
@@ -60,5 +60,5 @@
 ----------
 
 
-## 帮助中心
+## [帮助中心](helpcenter)
 >你可以[点击此处](helpcenter)访问我们的帮助中心页面。
